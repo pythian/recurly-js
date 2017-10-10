@@ -6,7 +6,7 @@
     "e-commerce",
     "recurring billing"
   ],
-  "version": "2.4.2",
+  "version": "https://github.com/pythian/recurly-js/archive/v2.4.4.tar.gz",
   "homepage": "https://github.com/pythian/recurly-js",
   "author": "Rob Righter <robrighter@gmail.com> (http://github.com/robrighter)",
   "contributors": [
